@@ -2,7 +2,7 @@
 ===================
 base on [KenBurnsView][1]
 
-## The effect
+## The effect (GIF)
 ![Screenshot](https://github.com/kk-java/ImageSwitch/raw/master/imageswitch.gif)
 
 
